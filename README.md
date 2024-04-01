@@ -1,1 +1,1 @@
-# Blogging-Platform
+# This is a blog platform user can register and share their experiences
